@@ -1,11 +1,11 @@
 {
- "name": "DYSaurora ",
- "website": "https://dystoken.mystrikingly.com",
- "description": "-",
- "explorer": "https://bscscan.com/token/0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e",
- "type": "HRC-20",
- "symbol": "DYS",
- "decimals": 18,
- "status": "active",
- "id": "0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e"
-}
+    "name": "fortunateToken",
+    "website": "-",
+    "description": "frt",
+    "explorer": "https://hecoinfo.com/token/0x61884bE2dfD9C8FE21518497D4C371bCE5Df19e5",
+    "type": "HRC-20",
+    "symbol": "frt",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x61884bE2dfD9C8FE21518497D4C371bCE5Df19e5"
+   }
